@@ -1,0 +1,27 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moscchi/0822c1-back.git"
+  },
+  "keywords": [],
+  "author": "Academia Numen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moscchi/0822c1-back/issues"
+  },
+  "homepage": "https://github.com/moscchi/0822c1-back#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
