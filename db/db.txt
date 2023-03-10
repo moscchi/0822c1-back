@@ -1,1 +1,0 @@
-[{"id":1,"product":"Heladera","price":80000},{"id":2,"product":"Cafetera","price":25000},{"id":3,"product":"Microondas","price":15000},{"id":4,"product":"TV","price":120000}]
