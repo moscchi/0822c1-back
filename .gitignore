@@ -1,1 +1,3 @@
 node_modules
+#Siempre agregamos el .env, en el proyecto final no porque sino no pueden testear nuestra app
+.env
